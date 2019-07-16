@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/KS00367083/test/_apis/build/status/khadar2005.pipelines-java?branchName=master)](https://dev.azure.com/KS00367083/test/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
